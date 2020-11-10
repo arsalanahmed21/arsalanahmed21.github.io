@@ -1,0 +1,30 @@
+body {
+    background-image:url("sky.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 25px 25px 25px 25px;
+
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+p {
+    margin: 30px 30px 30px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+ul {
+    margin: 30px 30px 30px 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+li {
+    margin: 30px 30px 30px 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px; 
+}
